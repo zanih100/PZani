@@ -3,7 +3,7 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
     nav{
-    background-color:#F9CEE4;
+    background-color: blue;
     box-shadow:5px 5px 5px gray;
     }
     .navdiv{
@@ -33,7 +33,7 @@
     color:white;
     }
     #header2{
-        border:10px solid #F9CEE4;
+        border:10px solid blue;
         border-radius: 10px;
         text-align:center;
     }
@@ -48,7 +48,7 @@
         justify-content: space-evenly;
     }
     .imglist img{
-        border: 15px solid #F9CEE4;
+        border: 15px solid blue;
         border-radius: 20px;
     }
     .sherbimi{
